@@ -4,7 +4,6 @@
 ![image](https://user-images.githubusercontent.com/69991183/230747198-3ebbda06-cc41-4bd4-97e8-e0e25bc0076d.png)
 https://app.powerbi.com/view?r=eyJrIjoiZmU3NGI2ZDgtYzBmZS00ODVlLTg5NjgtNTJlNGQ2YjllZDE5IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
-
 2![image](https://user-images.githubusercontent.com/69991183/230744577-305a7b36-576d-4263-8007-f3818905971c.png) 
 ![image](https://user-images.githubusercontent.com/69991183/230747262-7a91f9b1-8725-4ea1-b012-a58b3ed4234f.png)
 https://app.powerbi.com/view?r=eyJrIjoiMmZlOWZiNjEtOTg0ZC00MDA0LThiYWUtMjkwYzdhOWRjZGQ1IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
@@ -28,7 +27,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNGY2ZWIzMmQtOWU4Mi00NTM0LTljNmUtZDZjOTAwO
 7![image](https://user-images.githubusercontent.com/69991183/230744683-b9e2d8ea-cc33-454f-9eaa-6b92126f25c9.png)  
 ![image](https://user-images.githubusercontent.com/69991183/230747366-c6f1f6ee-873d-4db7-b3b8-eeda72c0a83e.png)
 https://app.powerbi.com/view?r=eyJrIjoiMzNjNjE0YjEtNGUwYy00NjQxLTk0N2YtNDk3NzhiNWJjZGRiIiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
-
 
 8![image](https://user-images.githubusercontent.com/69991183/230744702-d348b50e-b41a-4f0e-9595-e170a5105e10.png)
 ![image](https://user-images.githubusercontent.com/69991183/230747408-6ef8e3db-397b-40cb-988a-20037789232e.png)
