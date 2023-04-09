@@ -1,7 +1,8 @@
-# ✨ Power-Bi ✨ 
+# ✨ Portfólio de análise e visualização de dados com o Power-Bi ✨ 
 <div>
 
 ### Projetos dos cursos: Data Science Academy e UNOVA
+<div>
 
 **Este repositório contém o percurso metodológico das trilhas de aprendizagem de Power BI.** 
 Os cursos que deram origem aos dados e aos dashboards apresentados a seguir podem ser acessados através dos links: 
@@ -15,7 +16,7 @@ A seguir tem se todos os projetos concluídos que podem ser visitados acessando 
 O preview permite visualizar aspectos importantes do projeto. 
 Caso deseje ter acesso aos dados que deram origem ao projeto basta verificar os arquivos que foram disponibilizados.
 Cada projeto é introduzido pelo seu respectivo Qr code - nota sobre o capítulo - Preview estática - Link interativo
-
+<div>
 ### Mini projeto 04  - Cap. 07 - logística - Data Science Academy
 #### Visão Geral
 
