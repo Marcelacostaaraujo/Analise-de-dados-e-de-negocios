@@ -1,4 +1,4 @@
-# Power-Bi  - Atividades dos cursos: Data Science Academy, UNOVA e DIO.me - preview
+# Power-Bi  - Atividades dos cursos: Data Science Academy, UNOVA e DIO.me - Qr code - preview e link de acesso
 
 1![image](https://user-images.githubusercontent.com/69991183/230744553-e53321b0-9ae4-4ac5-b247-dd0fa183faa6.png) 
 ![image](https://user-images.githubusercontent.com/69991183/230747198-3ebbda06-cc41-4bd4-97e8-e0e25bc0076d.png)
