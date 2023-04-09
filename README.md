@@ -5,9 +5,8 @@
 
 Este repositório contém o percurso metodológico das trilhas de aprendizagem de Power BI. 
 Os cursos que deram origem aos dados e aos dashboards apresentados a seguir podem ser acessados através dos links: 
-https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science
-
-https://www.unovacursos.com.br/curso/power-bi
+  - https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-intelligence-e-data-science
+  - https://www.unovacursos.com.br/curso/power-bi
 
 Os dados podem ser baixados no pull request na pasta git hub data science academy  que contem os capítulos e seus respectivos arquivos que deram origem ao projeto.
 
@@ -15,7 +14,6 @@ A seguir tem se todos os projetos concluídos que podem ser visitados acessando 
 
 O preview permite visualizar aspectos importantes do projeto. 
 Caso deseje ter acesso aos dados que deram origem ao projeto basta verificar os arquivos que foram disponibilizados.
-
 Cada projeto é introduzido pelo seu respectivo Qr code - nota sobre o capítulo - Preview estática - Link interativo
 
 #### Mini projeto 04  - Cap. 07 - logística - Data Science Academy
@@ -80,7 +78,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMjA4NDQ2N2MtNDY4Ny00MmEwLWJhZGUtNzExNmVjZ
 ##### Miniprojeto 01 - cap.04 - Marketing - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 📍 O marketing é essencial para o funcionamento de uma empresa. sendo responsável por atrair e reter os clientes, compreender o mercado e posicionar a marca de forma a aumentar as vendas. Seu sucesso pode ser monitorado a partir de kpi´s. 
 📍 Os principais kpi´s são:
--Taxa de conversão: A proporção de visitantes do site que realizam uma ação desejada, como comprar um produto ou preencher um formulário de contato.
+- Taxa de conversão: A proporção de visitantes do site que realizam uma ação desejada, como comprar um produto ou preencher um formulário de contato.
 - Taxa  de  retenção  do  cliente: A proporção de clientes que compram de uma empresa novamente.
 - Custo por aquisição de cliente (CAC):O custo total de adquirir um novo cliente, incluindo despesas com publicidade e marketing.
 - Retorno sobre investimento (ROI):O lucro ou prejuízo obtido em relação ao investimento feito em uma campanha de marketing.
@@ -90,10 +88,10 @@ https://app.powerbi.com/view?r=eyJrIjoiMjA4NDQ2N2MtNDY4Ny00MmEwLWJhZGUtNzExNmVjZ
 
 Este mini-projeto apresenta diversos relatórios que serão divididos em 4 visões:
 
--Visão do Cliente
--Visão do Comportamento de Compra do Cliente
--Visão da Performance das Campanhas de Marketing
--Visão dos Padrões de Compra no Ponto de Venda (País)
+- Visão do Cliente
+- Visão do Comportamento de Compra do Cliente
+- Visão da Performance das Campanhas de Marketing
+- Visão dos Padrões de Compra no Ponto de Venda (País)
 
 Para cada visão tem se as variáveis, medidas, métricas e cruzamento de dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
 
@@ -106,12 +104,11 @@ https://app.powerbi.com/view?r=eyJrIjoiMmZlOWZiNjEtOTg0ZC00MDA0LThiYWUtMjkwYzdhO
 ##### Lab.02 - cap.03 - Modelagem, relacionamentos e DAX -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 📍 Esse dashboard apresenta a importância da modelagem para responder as perguntas de negócio. Aborda relacionamentos e cardinalidade. Introduz a importância do conceito de ETL. 
 📍 Os gráficos permitem responder as perguntas de negócio: 
-1-Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
-2-Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
-3-A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
-4-Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.
-5-Qual foi o comportamento da margem de lucro ao longo do tempo? 
-Considere amargem de lucro como o lucro dividido pelo valor venda. 
+1 - Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
+2 - Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
+3 - A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
+4 - Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.
+5 - Qual foi o comportamento da margem de lucro ao longo do tempo? (Considere a margem de lucro como o lucro dividido pelo valor venda.) 
 
 
 ![image](https://user-images.githubusercontent.com/69991183/230744683-b9e2d8ea-cc33-454f-9eaa-6b92126f25c9.png)  
