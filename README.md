@@ -3,6 +3,16 @@
 
 # Projetos dos cursos: Data Science Academy, UNOVA e DIO.me 
 
+
+Este repositório contém o percurso metodológico das trilhas de aprendizagem de Power BI. 
+
+Para fins de organização dos dados foi necessário criar a pasta git hub data science academy para inserir os capítulos e seus respectivos arquivos que deram origem ao projeto 
+
+A seguir tem se todos os projetos, que podem ser visitados acessando o qr code ou o link interativo. 
+O preview permite visualizar aspectos importantes do projeto. 
+Caso deseje ter acesso aos dados que deram origem ao projeto basta verificar os arquivos que foram disponibilizados.
+
+
 # Num  - Qr code - Preview estática - Link interativo
 
 1![image](https://user-images.githubusercontent.com/69991183/230744553-e53321b0-9ae4-4ac5-b247-dd0fa183faa6.png) 
