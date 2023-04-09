@@ -8,14 +8,12 @@ https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-business-in
 
 https://www.unovacursos.com.br/curso/power-bi
 
-
 Os dados podem ser baixados no pull request na pasta git hub data science academy  que contem os capítulos e seus respectivos arquivos que deram origem ao projeto.
 
 A seguir tem se todos os projetos concluídos que podem ser visitados acessando o qr code ou o link interativo. Cada projeto tem uma nota introdutória exibindo a importância do tema, KPI´s e ferramentas e conceitos adotados na construção do dashboard. 
 
 O preview permite visualizar aspectos importantes do projeto. 
 Caso deseje ter acesso aos dados que deram origem ao projeto basta verificar os arquivos que foram disponibilizados.
-
 
 Cada projeto é introduzido pelo seu respectivo Qr code - nota sobre o capítulo - Preview estática - Link interativo
 
@@ -36,7 +34,8 @@ Nível  de  serviço  ao  cliente:  a  satisfação  geral  do  cliente  com  o 
 Taxa de ocorrência de avarias: a porcentagem de produtos que sofrem danos durante o transporte ou armazenamento.
 Índice  de  retorno  sobre  investimento  (ROI):  o  retorno  financeiro  gerado  pelos investimentos  em  logística,  como  sistemas  de  gerenciamento  de  armazéns  ou  software  de rastreamento de pedidos. 
 
-. ![image](https://user-images.githubusercontent.com/69991183/230744553-e53321b0-9ae4-4ac5-b247-dd0fa183faa6.png) 
+
+![image](https://user-images.githubusercontent.com/69991183/230744553-e53321b0-9ae4-4ac5-b247-dd0fa183faa6.png) 
 ![image](https://user-images.githubusercontent.com/69991183/230747198-3ebbda06-cc41-4bd4-97e8-e0e25bc0076d.png)
 https://app.powerbi.com/view?r=eyJrIjoiZmU3NGI2ZDgtYzBmZS00ODVlLTg5NjgtNTJlNGQ2YjllZDE5IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
@@ -53,6 +52,7 @@ Avaliação de desempenho: mede a avaliação do funcionário em um ciclo de tra
 Nível de absenteísmo: mede a frequência com que os funcionários faltam ao trabalho, o que pode indicar problemas com o ambiente de trabalho ou saúde dos funcionários.
 Nível  de  engajamento:  escala  que  define  quão  engajados  os  funcionários estão, normalmente medida  com  base  nonível  de  absenteísmo, pontualidade,  avaliação  de desempenho,etc
 
+
 ![image](https://user-images.githubusercontent.com/69991183/230744649-ecbbc503-0900-4e1f-8bb3-5e2954ba4f87.png)  
 ![image](https://user-images.githubusercontent.com/69991183/230747338-bb8fdccf-19f2-49e2-ba58-74d6086e9555.png)
 https://app.powerbi.com/view?r=eyJrIjoiZjdiYTk2MmYtMzg3YS00MTMwLWFiNzgtMjUwOGFmNjcyYjY4IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
@@ -61,7 +61,6 @@ https://app.powerbi.com/view?r=eyJrIjoiZjdiYTk2MmYtMzg3YS00MTMwLWFiNzgtMjUwOGFmN
 # 3 miniprojeto 02 cap.05 - Análise de dados comerciais -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 
 O departamento comercial é responsável por garantir as vendas, bem como as receitas e gestão do relacionamento com os clientes desde a prospecção até o pós-vendas. 
-
 Dentre os KPI´s da área comercial, pode se listar:
 Volume de vendas: quantidade de produtos ou serviços vendidos.
 •Ticket médio: valor médio das vendas por transação.
@@ -73,9 +72,12 @@ Volume de vendas: quantidade de produtos ou serviços vendidos.
 •Satisfação do cliente: medida da satisfação dos clientes com a empresa, produtos e serviços oferecidos. 
 
 Neste dashboard vamos conhecer a perfomance de vendas e os principais influenciadores, graças ao uso da narrativa inteligente.
+
+
 ![image](https://user-images.githubusercontent.com/69991183/230744595-4d2fcaef-1aef-45ef-8abc-506709de2190.png)
 ![image](https://user-images.githubusercontent.com/69991183/230747294-0eaac57a-b27c-44f2-9b67-2f76410ac805.png)
 https://app.powerbi.com/view?r=eyJrIjoiMjA4NDQ2N2MtNDY4Ny00MmEwLWJhZGUtNzExNmVjZGZiYWI3IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
+
 
 # miniprojeto 01 - cap.04 - Marketing - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 O marketing é essencial para o funcionamento de uma empresa. sendo responsável por atrair e reter os clientes, compreender o mercado e posicionar a marca de forma a aumentar as vendas. Seu sucesso pode ser monitorado a partir de kpi´s. 
@@ -89,29 +91,47 @@ Este mini-projeto apresenta diversos relatórios que serão divididos em 4 visõ
 •Visão dos Padrões de Compra no Ponto de Venda (País)
 
 Para cada visão tem se as variáveis, medidas, métricas e cruzamento de dados, visando entregar aos tomadores de decisão uma visão bastante completa sobre o perfil dos clientes, os padrões de compra e a efetividade das campanhas de Marketing.
+
+
 ![image](https://user-images.githubusercontent.com/69991183/230744577-305a7b36-576d-4263-8007-f3818905971c.png) 
 ![image](https://user-images.githubusercontent.com/69991183/230747262-7a91f9b1-8725-4ea1-b012-a58b3ed4234f.png)
 https://app.powerbi.com/view?r=eyJrIjoiMmZlOWZiNjEtOTg0ZC00MDA0LThiYWUtMjkwYzdhOWRjZGQ1IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
 # lab.02 - cap.03 - Modelagem, relacionamentos e DAX -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
-Esse dashboard apresenta a importância da modelagem para responder as perguntas de negócio. Aborda relacionamentos e cardinalidade. Introduz a importância do conceito de ETL. Os gráficos permitem responder as perguntas de negócio: 1-Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.2-Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.3-A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?4-Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.5-Qual foi o comportamento da margem de lucro ao longo do tempo? Considere amargem de lucro como o lucro dividido pelo valor venda. 
+Esse dashboard apresenta a importância da modelagem para responder as perguntas de negócio. Aborda relacionamentos e cardinalidade. Introduz a importância do conceito de ETL. Os gráficos permitem responder as perguntas de negócio: 
+1-Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
+2-Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
+3-A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
+4-Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.
+5-Qual foi o comportamento da margem de lucro ao longo do tempo? 
+Considere amargem de lucro como o lucro dividido pelo valor venda. 
+
+
 ![image](https://user-images.githubusercontent.com/69991183/230744683-b9e2d8ea-cc33-454f-9eaa-6b92126f25c9.png)  
 ![image](https://user-images.githubusercontent.com/69991183/230747366-c6f1f6ee-873d-4db7-b3b8-eeda72c0a83e.png)
 https://app.powerbi.com/view?r=eyJrIjoiMzNjNjE0YjEtNGUwYy00NjQxLTk0N2YtNDk3NzhiNWJjZGRiIiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 # lab.01 - cap.02 - primeiros passos com o power bi - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 Este dashboard apresenta uma visão geral dos principais gráficos, filtros e segmentações. 
+
+
 ![image](https://user-images.githubusercontent.com/69991183/230744824-cfe2f2e4-3009-4da1-a525-39d0052c630e.png) 
 ![image](https://user-images.githubusercontent.com/69991183/230747097-eb2437cd-e78b-4582-b127-38ed56f4158c.png)
 https://app.powerbi.com/view?r=eyJrIjoiNGY2ZWIzMmQtOWU4Mi00NTM0LTljNmUtZDZjOTAwOTQzYjc0IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
+
 # lição microsoft learning
+
+
 ![image](https://user-images.githubusercontent.com/69991183/230744622-46240104-343a-4bf5-8af7-d56196ffdfa6.png)
 ![image](https://user-images.githubusercontent.com/69991183/230747318-d9fd5a35-a870-4c8a-8f0f-5da20c56aa30.png)
 https://app.powerbi.com/view?r=eyJrIjoiYjU5Njk5MjktNjMzOS00M2IwLTk4ZjAtNTViYjY0OGMyZjNkIiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
+
 # curso power bi - unova
+
+
 ![image](https://user-images.githubusercontent.com/69991183/230744702-d348b50e-b41a-4f0e-9595-e170a5105e10.png)
 ![image](https://user-images.githubusercontent.com/69991183/230747408-6ef8e3db-397b-40cb-988a-20037789232e.png)
 https://app.powerbi.com/view?r=eyJrIjoiYWI1M2M3NTktM2E2Zi00MzA1LTg3MmItMDJlYjdkZGNkY2JjIiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
