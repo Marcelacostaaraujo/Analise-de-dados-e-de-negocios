@@ -1,4 +1,4 @@
-# Power-Bi  - projetos dos cursos: Data Science Academy, UNOVA e DIO.me 
+# Power-Bi  - Projetos dos cursos: Data Science Academy, UNOVA e DIO.me 
 
 # Num  - Qr code - Preview estática - Link do projeto
 
