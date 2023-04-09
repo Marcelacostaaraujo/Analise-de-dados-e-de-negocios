@@ -16,8 +16,8 @@ O preview permite visualizar aspectos importantes do projeto.
 Caso deseje ter acesso aos dados que deram origem ao projeto basta verificar os arquivos que foram disponibilizados.
 Cada projeto é introduzido pelo seu respectivo Qr code - nota sobre o capítulo - Preview estática - Link interativo
 
-#### Mini projeto 04  - Cap. 07 - logística - Data Science Academy
-### Visão Geral
+### Mini projeto 04  - Cap. 07 - logística - Data Science Academy
+#### Visão Geral
 
 **A logística** é essencial ao funcionamento de uma empresa.Graças a ela é possível o atendimento de prazos aos clientes e gestão de atividades tais, como transporte, armazenamento e distribuição de seus produtos. Bem como os interelacionamentos dentre os diversos stakeholders e os ruídos que podem ocorrer na gestão dos fluxos inerentes a isso de forma a reduzir prejuízos com o efeito chicote. Ou mesmo, aproveitar oportunidades ao prever ou diagnosticar oscilações na demanda. 
   
@@ -33,15 +33,15 @@ Cada projeto é introduzido pelo seu respectivo Qr code - nota sobre o capítulo
 **- Taxa de ocorrência de avarias:** a porcentagem de produtos que sofrem danos durante o transporte ou armazenamento.
 **- Índice  de  retorno  sobre  investimento  (ROI):**  o  retorno  financeiro  gerado  pelos investimentos  em  logística,  como  sistemas  de  gerenciamento  de  armazéns  ou  software  de rastreamento de pedidos. 
 
-## Análise descritiva e diagnóstica: permite acompanhar o desempenho de um time global.
+#### Análise descritiva e diagnóstica: permite acompanhar o desempenho de um time global.
 
 ![image](https://user-images.githubusercontent.com/69991183/230744553-e53321b0-9ae4-4ac5-b247-dd0fa183faa6.png) 
 ![image](https://user-images.githubusercontent.com/69991183/230747198-3ebbda06-cc41-4bd4-97e8-e0e25bc0076d.png)
 https://app.powerbi.com/view?r=eyJrIjoiZmU3NGI2ZDgtYzBmZS00ODVlLTg5NjgtNTJlNGQ2YjllZDE5IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-##### Mini projeto 03 - cap.06 - Análise de dados dos recursos humanos - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
-### Visão geral
+### Mini projeto 03 - cap.06 - Análise de dados dos recursos humanos - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+#### Visão geral
 
 **A área de Recursos humanos** é responsável pela gestão e administração das atividades relacionadas aos colaboradores da empresa, bem como promover a satisfação dos funcionários e com isso permitem o sucesso da organização. Dentre suas atribuições, tem se: recrutamento, seleção, treinamento e desenvolvimento, remuneração, gestão de conflitos, políticas e práticas de RH e o mais importante: Avaliar o desempenho para fornecer feedbacks e ajudar na definição de metas e objetivos para a organização. 
   
@@ -55,15 +55,15 @@ https://app.powerbi.com/view?r=eyJrIjoiZmU3NGI2ZDgtYzBmZS00ODVlLTg5NjgtNTJlNGQ2Y
 **- Nível de absenteísmo:** mede a frequência com que os funcionários faltam ao trabalho, o que pode indicar problemas com o ambiente de trabalho ou saúde dos funcionários.
 **- Nível  de  engajamento:**  escala  que  define  quão  engajados  os  funcionários estão, normalmente medida  com  base  no nível  de  absenteísmo, pontualidade,  avaliação  de desempenho,etc
 
-## Análise descritiva e diagnóstica. O uso de KPI´s automatiza a tomada de decisão e permite a priorização por data e a partir de critérios estabelecidos pela gestão.
+#### Análise descritiva e diagnóstica. O uso de KPI´s automatiza a tomada de decisão e permite a priorização por data e a partir de critérios estabelecidos pela gestão.
 
 ![image](https://user-images.githubusercontent.com/69991183/230744649-ecbbc503-0900-4e1f-8bb3-5e2954ba4f87.png)  
 ![image](https://user-images.githubusercontent.com/69991183/230747338-bb8fdccf-19f2-49e2-ba58-74d6086e9555.png)
 https://app.powerbi.com/view?r=eyJrIjoiZjdiYTk2MmYtMzg3YS00MTMwLWFiNzgtMjUwOGFmNjcyYjY4IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-##### Miniprojeto 02 cap.05 - Análise de dados comerciais -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
-### Visão geral
+### Miniprojeto 02 cap.05 - Análise de dados comerciais -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+#### Visão geral
 **O departamento comercial** é responsável por garantir as vendas, bem como as receitas e gestão do relacionamento com os clientes desde a prospecção até o pós-vendas. 
 **Dentre os KPI´s da área comercial, pode se listar:**
 **- Volume de vendas:** quantidade de produtos ou serviços vendidos.
@@ -74,7 +74,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZjdiYTk2MmYtMzg3YS00MTMwLWFiNzgtMjUwOGFmN
 **- Lucratividade:** receita líquida obtida pela venda de produtos ou serviços, descontados os custos.
 **- Produtividade da equipe de vendas:** quantidade de vendas realizadas por vendedor por período.
 **- Satisfação do cliente:** medida da satisfação dos clientes com a empresa, produtos e serviços oferecidos. 
-## Análise descritiva, diagnóstica e preditiva
+#### Análise descritiva, diagnóstica e preditiva
 Neste dashboard tem se a perfomance de vendas e os principais influenciadores, graças ao uso da narrativa inteligente.
 
   
@@ -83,8 +83,8 @@ Neste dashboard tem se a perfomance de vendas e os principais influenciadores, g
 https://app.powerbi.com/view?r=eyJrIjoiMjA4NDQ2N2MtNDY4Ny00MmEwLWJhZGUtNzExNmVjZGZiYWI3IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-##### Miniprojeto 01 - cap.04 - Marketing - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
- ### Visão geral
+### Miniprojeto 01 - cap.04 - Marketing - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+#### Visão geral
 
 **O marketing** é essencial para o funcionamento de uma empresa. sendo responsável por atrair e reter os clientes, compreender o mercado e posicionar a marca de forma a aumentar as vendas. Seu sucesso pode ser monitorado a partir de kpi´s. 
 **Os principais kpi´s são:**
@@ -97,7 +97,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMjA4NDQ2N2MtNDY4Ny00MmEwLWJhZGUtNzExNmVjZ
 **- Net  Promoter  Score  (NPS):** Uma  medida  da  lealdade  dos  clientes,  baseada  em  sua disposição para recomendar uma empresa ou produto para outras pessoas.
 **-Tráfego do website:** Número de visitas no website.
 
-## Análise descritiva e diagnóstica podendo dar origem a análise preditiva
+#### Análise descritiva e diagnóstica podendo dar origem a análise preditiva
 Este mini-projeto apresenta diversos relatórios que serão divididos em 4 visões:
 
 **- Visão do Cliente**
@@ -112,8 +112,8 @@ Para cada visão tem se as variáveis, medidas, métricas e cruzamento de dados,
 https://app.powerbi.com/view?r=eyJrIjoiMmZlOWZiNjEtOTg0ZC00MDA0LThiYWUtMjkwYzdhOWRjZGQ1IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-##### Lab.02 - cap.03 - Modelagem, relacionamentos e DAX -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
-## Análise descritiva 
+### Lab.02 - cap.03 - Modelagem, relacionamentos e DAX -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+#### Análise descritiva 
 Esse dashboard apresenta a **importância da modelagem para responder as perguntas de negócio.** Aborda relacionamentos e cardinalidade. Introduz a importância do conceito de ETL. 
 **Os gráficos permitem responder as perguntas de negócio:** 
 **1** - Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
@@ -127,8 +127,8 @@ Esse dashboard apresenta a **importância da modelagem para responder as pergunt
 ![image](https://user-images.githubusercontent.com/69991183/230747366-c6f1f6ee-873d-4db7-b3b8-eeda72c0a83e.png)
 https://app.powerbi.com/view?r=eyJrIjoiMzNjNjE0YjEtNGUwYy00NjQxLTk0N2YtNDk3NzhiNWJjZGRiIiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
-##### Lab.01 - cap.02 - primeiros passos com o power bi - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
-## Extração e tratamento de dados de fonte primária e Análise descritiva
+### Lab.01 - cap.02 - primeiros passos com o power bi - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+#### Extração e tratamento de dados de fonte primária e Análise descritiva
 Este dashboard apresenta uma **visão geral dos principais gráficos, filtros e segmentações.** 
 
 
@@ -137,8 +137,8 @@ Este dashboard apresenta uma **visão geral dos principais gráficos, filtros e 
 https://app.powerbi.com/view?r=eyJrIjoiNGY2ZWIzMmQtOWU4Mi00NTM0LTljNmUtZDZjOTAwOTQzYjc0IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-##### Lição microsoft learning
-## Extração de dados de fonte secundária, tratamento e análise descritiva
+### Lição microsoft learning
+#### Extração de dados de fonte secundária, tratamento e análise descritiva
 
 
 ![image](https://user-images.githubusercontent.com/69991183/230744622-46240104-343a-4bf5-8af7-d56196ffdfa6.png)
@@ -146,7 +146,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNGY2ZWIzMmQtOWU4Mi00NTM0LTljNmUtZDZjOTAwO
 https://app.powerbi.com/view?r=eyJrIjoiYjU5Njk5MjktNjMzOS00M2IwLTk4ZjAtNTViYjY0OGMyZjNkIiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-##### Curso power bi - unova
+#### Curso power bi - unova
 
 
 ![image](https://user-images.githubusercontent.com/69991183/230744702-d348b50e-b41a-4f0e-9595-e170a5105e10.png)
