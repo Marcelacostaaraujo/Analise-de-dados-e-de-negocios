@@ -29,8 +29,8 @@ Cada projeto é introduzido pelo seu respectivo Qr code - nota sobre o capítulo
 **- Índice de acurácia de estoque:** a precisão do estoque registrado em relação ao estoque real.
 **- Taxa de utilização de armazenamento:** a porcentagem do espaço de armazenamento disponível que está sendo utilizado.
 **- Nível  de  serviço  ao  cliente:**  a  satisfação  geral  do  cliente  com  o  serviço  de  logística, incluindo tempo de entrega, qualidade do produto eatendimento ao cliente.
-- Taxa de ocorrência de avarias:** a porcentagem de produtos que sofrem danos durante o transporte ou armazenamento.
-- Índice  de  retorno  sobre  investimento  (ROI):**  o  retorno  financeiro  gerado  pelos investimentos  em  logística,  como  sistemas  de  gerenciamento  de  armazéns  ou  software  de rastreamento de pedidos. 
+**- Taxa de ocorrência de avarias:** a porcentagem de produtos que sofrem danos durante o transporte ou armazenamento.
+**- Índice  de  retorno  sobre  investimento  (ROI):**  o  retorno  financeiro  gerado  pelos investimentos  em  logística,  como  sistemas  de  gerenciamento  de  armazéns  ou  software  de rastreamento de pedidos. 
 
 
 ![image](https://user-images.githubusercontent.com/69991183/230744553-e53321b0-9ae4-4ac5-b247-dd0fa183faa6.png) 
