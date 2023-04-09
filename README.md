@@ -107,11 +107,11 @@ https://app.powerbi.com/view?r=eyJrIjoiMmZlOWZiNjEtOTg0ZC00MDA0LThiYWUtMjkwYzdhO
 ##### Lab.02 - cap.03 - Modelagem, relacionamentos e DAX -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 Esse dashboard apresenta a **importância da modelagem para responder as perguntas de negócio.** Aborda relacionamentos e cardinalidade. Introduz a importância do conceito de ETL. 
 **Os gráficos permitem responder as perguntas de negócio:** 
-**1 - Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.**
-**2 - Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.**
-**3 - A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?**
-**4 - Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.**
-**5 - Qual foi o comportamento da margem de lucro ao longo do tempo? (Considere a margem de lucro como o lucro dividido pelo valor venda.)**
+**1** - Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
+**2** - Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
+**3** - A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI–Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?
+**4** - Considere que o lucro é equivalente a:valor venda -custo envio. Qual categoria de produto apresentou maior lucro médio.
+**5** - Qual foi o comportamento da margem de lucro ao longo do tempo? (Considere a margem de lucro como o lucro dividido pelo valor venda.)
 
 
 ![image](https://user-images.githubusercontent.com/69991183/230744683-b9e2d8ea-cc33-454f-9eaa-6b92126f25c9.png)  
