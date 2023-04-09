@@ -17,7 +17,7 @@ Caso deseje ter acesso aos dados que deram origem ao projeto basta verificar os 
 
 Cada projeto é introduzido pelo seu respectivo Qr code - nota sobre o capítulo - Preview estática - Link interativo
 
-# Projeto de logística - Cap. 07 Data Science Academy
+# Mini projeto 04  - Cap. 07 - logística - Data Science Academy
 
 A logística é essencial ao funcionamento de uma empresa.Graças a ela é possível o atendimento de prazos aos clientes e gestão de atividades tais, como transporte, armazenamento e distribuição de seus produtos. Bem como os interelacionamentos dentre os diversos stakeholders e os ruídos que podem ocorrer na gestão dos fluxos inerentes a isso de forma a reduzir prejuízos com o efeito chicote. Ou mesmo, aproveitar oportunidades ao prever ou diagnosticar oscilações na demanda. 
 
