@@ -3,7 +3,7 @@
 
 # Projetos dos cursos: Data Science Academy, UNOVA e DIO.me 
 
-# Num  - Qr code - Preview estática - Link do projeto
+# Num  - Qr code - Preview estática - Link interativo
 
 1![image](https://user-images.githubusercontent.com/69991183/230744553-e53321b0-9ae4-4ac5-b247-dd0fa183faa6.png) 
 ![image](https://user-images.githubusercontent.com/69991183/230747198-3ebbda06-cc41-4bd4-97e8-e0e25bc0076d.png)
