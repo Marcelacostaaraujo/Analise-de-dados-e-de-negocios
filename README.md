@@ -40,7 +40,7 @@ Taxa de ocorrência de avarias: a porcentagem de produtos que sofrem danos duran
 https://app.powerbi.com/view?r=eyJrIjoiZmU3NGI2ZDgtYzBmZS00ODVlLTg5NjgtNTJlNGQ2YjllZDE5IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-# mini projeto 03 - cap.06 - Análise de dados dos recursos humanos - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+# Mini projeto 03 - cap.06 - Análise de dados dos recursos humanos - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 A área de Recursos humanos é responsável pela gestão e administração das atividades relacionadas aos colaboradores da empresa, bem como promover a satisfação dos funcionários e com isso permitem o sucesso da organização. Dentre suas atribuições, tem se: recrutamento, seleção, treinamento e desenvolvimento, remuneração, gestão de conflitos, políticas e práticas de RH e o mais importante: Avaliar o desempenho para fornecer feedbacks e ajudar na definição de metas e objetivos para a organização. 
 Dentre os KPI´s, pode se citar: 
 Taxa  de  rotatividade:  mede  a  frequência  com  que  os  funcionários  estão  deixando  a empresa,  o  que  pode  indicar  problemas  com  o  ambiente  de  trabalho,  remuneração  ou oportunidades de desenvolvimento.
@@ -58,7 +58,7 @@ Nível  de  engajamento:  escala  que  define  quão  engajados  os  funcionári
 https://app.powerbi.com/view?r=eyJrIjoiZjdiYTk2MmYtMzg3YS00MTMwLWFiNzgtMjUwOGFmNjcyYjY4IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-# 3 miniprojeto 02 cap.05 - Análise de dados comerciais -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+# Miniprojeto 02 cap.05 - Análise de dados comerciais -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 
 O departamento comercial é responsável por garantir as vendas, bem como as receitas e gestão do relacionamento com os clientes desde a prospecção até o pós-vendas. 
 Dentre os KPI´s da área comercial, pode se listar:
@@ -79,7 +79,7 @@ Neste dashboard vamos conhecer a perfomance de vendas e os principais influencia
 https://app.powerbi.com/view?r=eyJrIjoiMjA4NDQ2N2MtNDY4Ny00MmEwLWJhZGUtNzExNmVjZGZiYWI3IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-# miniprojeto 01 - cap.04 - Marketing - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+# Miniprojeto 01 - cap.04 - Marketing - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 O marketing é essencial para o funcionamento de uma empresa. sendo responsável por atrair e reter os clientes, compreender o mercado e posicionar a marca de forma a aumentar as vendas. Seu sucesso pode ser monitorado a partir de kpi´s. 
 Os principais kpi´s são: Taxa de conversão: A proporção de visitantes do site que realizam uma ação desejada, como comprar um produto ou preencher um formulário de contato.Taxa  de  retenção  do  cliente: A proporção de clientes que compram de uma empresa novamente.Custo por aquisição de cliente (CAC):O custo total de adquirir um novo cliente, incluindo despesas com publicidade e marketing.Retorno sobre investimento (ROI):O lucro ou prejuízo obtido em relação ao investimento feito em uma campanha de marketing.Conscientização da marca: A medida da familiaridade e reconhecimento da marca entre o público-alvo.Engajamento:A medida da interação dos usuários com conteúdo, campanhas e canais de marketing.Net  Promoter  Score  (NPS):Uma  medida  da  lealdade  dos  clientes,  baseada  em  sua disposição para recomendar uma empresa ou produto para outras pessoas.Tráfego do website: Número de visitas no website.
 
@@ -98,7 +98,7 @@ Para cada visão tem se as variáveis, medidas, métricas e cruzamento de dados,
 https://app.powerbi.com/view?r=eyJrIjoiMmZlOWZiNjEtOTg0ZC00MDA0LThiYWUtMjkwYzdhOWRjZGQ1IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-# lab.02 - cap.03 - Modelagem, relacionamentos e DAX -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+# Lab.02 - cap.03 - Modelagem, relacionamentos e DAX -  Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 Esse dashboard apresenta a importância da modelagem para responder as perguntas de negócio. Aborda relacionamentos e cardinalidade. Introduz a importância do conceito de ETL. Os gráficos permitem responder as perguntas de negócio: 
 1-Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata.
 2-Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.
@@ -112,7 +112,7 @@ Considere amargem de lucro como o lucro dividido pelo valor venda.
 ![image](https://user-images.githubusercontent.com/69991183/230747366-c6f1f6ee-873d-4db7-b3b8-eeda72c0a83e.png)
 https://app.powerbi.com/view?r=eyJrIjoiMzNjNjE0YjEtNGUwYy00NjQxLTk0N2YtNDk3NzhiNWJjZGRiIiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
-# lab.01 - cap.02 - primeiros passos com o power bi - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
+# Lab.01 - cap.02 - primeiros passos com o power bi - Microsoft Power BI Para Business Intelligence e Data Science - Data Science Academy
 Este dashboard apresenta uma visão geral dos principais gráficos, filtros e segmentações. 
 
 
@@ -121,7 +121,7 @@ Este dashboard apresenta uma visão geral dos principais gráficos, filtros e se
 https://app.powerbi.com/view?r=eyJrIjoiNGY2ZWIzMmQtOWU4Mi00NTM0LTljNmUtZDZjOTAwOTQzYjc0IiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-# lição microsoft learning
+# Lição microsoft learning
 
 
 ![image](https://user-images.githubusercontent.com/69991183/230744622-46240104-343a-4bf5-8af7-d56196ffdfa6.png)
@@ -129,7 +129,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNGY2ZWIzMmQtOWU4Mi00NTM0LTljNmUtZDZjOTAwO
 https://app.powerbi.com/view?r=eyJrIjoiYjU5Njk5MjktNjMzOS00M2IwLTk4ZjAtNTViYjY0OGMyZjNkIiwidCI6ImJkM2Y5ZGNmLWIzYzMtNDdiZi1iY2VhLTQzYmY0YmE0MzQ0MSJ9&embedImagePlaceholder=true
 
 
-# curso power bi - unova
+# Curso power bi - unova
 
 
 ![image](https://user-images.githubusercontent.com/69991183/230744702-d348b50e-b41a-4f0e-9595-e170a5105e10.png)
