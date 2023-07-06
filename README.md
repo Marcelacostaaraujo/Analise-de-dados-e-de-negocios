@@ -1,4 +1,4 @@
-# ✨ Portfólio de análise e visualização de dados com o Power-Bi ✨ 
+# ✨ Portfólio: Análise e visualização de dados com o Power-Bi ✨ 
 <div>
 
 ### Projetos dos cursos: Data Science Academy e UNOVA
